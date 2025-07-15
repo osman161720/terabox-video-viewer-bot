@@ -1,0 +1,5 @@
+API_ID = 26316905
+API_HASH = "b182013a70bf2990c04158717b9e9195"
+BOT_TOKEN = "7772119535:AAHSQkm0lvZU6baGM5gIxdjuVx9fHRXjlFo"
+CHANNEL_USERNAME = "@Today_hotdeal"
+AD_LINK = "https://curtworlds.com/nn0dtz37?key=bc27d8c4ffb1b255fb8c0246753fd5c6"
